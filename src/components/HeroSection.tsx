@@ -1,6 +1,6 @@
 import { Mail, Download } from "lucide-react";
 import { Button } from "@/components/ui/button";
-import portraitImage from "@/assets/shraddha-yadav-portrait.jpg";
+const portraitImage = "/lovable-uploads/80af4b0c-afd5-4484-b3ec-af2f4adec0a2.png";
 
 const HeroSection = () => {
   return (
